@@ -1,0 +1,8 @@
+{
+    "sources": [
+      { "name": "Reddit", "method": "search API" },
+      { "name": "ArXiv", "method": "keyword match" },
+      { "name": "Wikipedia", "method": "summary extraction" }
+    ]
+  }
+  
